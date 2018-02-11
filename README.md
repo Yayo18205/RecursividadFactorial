@@ -1,6 +1,6 @@
 # RecursividadFactorial
 Factorial es  la cantidad que resulta de la multiplicación de determinado número natural por todos los números naturales que le anteceden excluyendo el cero.
-__________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 La palabra factorial se forma a partir de factor y este proviene del latín. Deriva del supino (factum) del verbo facio, facis, facere, feci, factum con el significado de hacer; más el sufijo -or que indica agente. A esa base se le añade el sufijo -alis que indica relación o pertenencia.
 
 En consecuencia el concepto original de este es lo perteneciente o lo relativo al que hace.
@@ -31,4 +31,4 @@ Con esa relación se los pueden definir por inducción. De este modo los primero
 
 8! = 40320 y así sucesivamente.
 
-https://javatutoring.com/factorial-java-program/
+https://javatutoring.com/wp-content/uploads/2016/11/factorial.gif
